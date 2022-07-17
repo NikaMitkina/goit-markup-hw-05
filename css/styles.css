@@ -103,14 +103,7 @@ flex-direction: row;
     transition-duration: 250ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
-.nav-link:hover, 
-.nav-link:focus,
-.nav-link:active{
-    color: var(--acsent-color);
-    border-bottom: 4px solid #2196F3;
-       border-radius: 2px;
- 
-}
+
 .active-link {
     color: #2196F3;
 
@@ -127,21 +120,7 @@ flex-direction: row;
     border-radius: 2px;
 }
 
-/*.active-link ::after{
-    position: absolute;
-    width: 100%;
-    height: 4px;
-    content: "";
-    bottom: -1px;
-    background: #2196f3;
-    border-radius: 2px;
-    }
 
-.active-link{
-    color: var(--acsent-color);
-    border-bottom: 4px solid #2196F3;
-    border-radius: 2px;
-}*/
 .contscts-link{
     color:var(--second-text-color) ;
     text-decoration: none;
