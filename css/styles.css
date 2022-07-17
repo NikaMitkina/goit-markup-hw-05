@@ -424,13 +424,11 @@ flex-direction: row;
 .people-icons-item{
     width: 44px;
     height: 44px;
-    
+     
 }
-.people-icons li:not(:last-child){
-    margin: 0;
-}
+
 .people-icons-item :not(:last-child){
-    margin-right: 0;
+    margin-right: 10px;
 }
 
 
