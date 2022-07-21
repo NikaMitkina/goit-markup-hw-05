@@ -108,7 +108,7 @@ flex-direction: row;
 .nav-link:active{
     color: var(--acsent-color);
     
-    border-radius: 2px;
+    
  
 }
 .active-link {
